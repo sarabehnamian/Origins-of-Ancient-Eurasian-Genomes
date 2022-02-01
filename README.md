@@ -1,2 +1,2 @@
 # Origins of Ancient Eurasian Genomes
-We implemented a novel method to date human genomes from the Late Mesolithic to modern times solely from their DNA sequences.  
+We presented the Temporal Population Structure (TPS), the first genomic dating machine learning-based method for ancient genomes ranging from the fringes of the Late Mesolithic to modern times. Many published ancient genomes lack reliable and direct dates, which results in obscure and contradictory reports. Here, we developed TPS, the first DNA-based dating method for ancient genomes ranging from the Late Mesolithic to modern-days, and applied it to 4,158 ancient and 1,307 modern Eurasians. We show that TPS predictions align with their known dates and correctly account for kin relationships.  
