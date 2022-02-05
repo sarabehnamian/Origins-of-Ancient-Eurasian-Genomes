@@ -53,5 +53,5 @@ The top lines of the merge.8.Q (just the first rows corresponding to the test sa
 
 STEP3 - Predicting 'merge.8.Q' data file
 ---------------------------------------------------------
-In this step, TPS is used (TestingTPS.ipynb) to predict merge.8.Q, the output of ADMIXTURE. Only the first 961 rows are of interest and are the input for TPS.
-To run TestingTPS.ipynb, merge.8.Q or your desired input and the model (random_model.pkl) must be in the same directory as they are now. 
+In this step, TPS is used (TPS(running).ipynb) to predict merge.8.Q, the output of ADMIXTURE. Only the first 961 rows are of interest and are the input for TPS.
+To run TPS(running).ipynb, merge.8.Q or your desired input and the model (random_model.pkl) must be in the same directory as they are now. 
