@@ -55,3 +55,4 @@ STEP3 - Predicting 'merge.8.Q' data file
 ---------------------------------------------------------
 In this step, TPS is used (TPS(running).ipynb) to predict merge.8.Q, the output of ADMIXTURE. Only the first 961 rows are of interest and are the input for TPS.
 To run TPS(running).ipynb, merge.8.Q or your desired input and the model (random_model.pkl) must be in the same directory as they are now. 
+All you have to do is run the file with your dataset or the default dataset (merge.8.Q).
