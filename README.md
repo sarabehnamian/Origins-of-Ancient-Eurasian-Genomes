@@ -5,7 +5,7 @@ We presented the Temporal Population Structure (TPS), the first genomic dating m
 ![This is an image](source_code.png)
 
 
-`Please follow the steps if you want the pipeline to run on new datasets with examples of inputs and outputs. `
+`Please follow these steps if you want the pipeline to run on new datasets with examples of inputs and outputs. `
 
 ```
 STEP0 - Converting genotype file
