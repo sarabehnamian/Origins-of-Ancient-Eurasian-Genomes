@@ -6,9 +6,9 @@ We presented the Temporal Population Structure (TPS), the first genomic dating m
 `Please follow the steps if you want the pipeline to run on new datasets with examples of inputs and outputs. `
  If you want to see how the main code was implemented or reconstruct the calculations, you can view solution. ipynb. The Jupyter file contains both our codes and explanations (markdowns).
 Please follow the steps if you want the pipeline to run on new datasets with examples of inputs and outputs. 
-'''
+```
 STEP0 - Converting genotype file
 STEP1 - Merging your file with the temporal components
 STEP2 - Calculating the temporal components of your samples
 STEP3 - Predicting 'merge.8.Q' data file
-'''
+```
