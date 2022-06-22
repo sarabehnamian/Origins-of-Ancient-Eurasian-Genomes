@@ -15,4 +15,4 @@ STEP3 - Predicting 'merge.8.Q' data file
 ```
 ![This is an image](running.png)
 
-![This is an image](explanation.mov)
+![You can watch this video if you need more explanations.](explanation.mov)
