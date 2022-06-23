@@ -55,4 +55,10 @@ STEP3 - Predicting 'merge.8.Q' data file
 ---------------------------------------------------------
 In this step, TPS is used (TPS(running).ipynb) to predict merge.8.Q, the output of ADMIXTURE. Only the first 961 rows are of interest and are the input for TPS.
 To run TPS(running).ipynb, merge.8.Q or your desired input and the model (random_model.pkl) must be in the same directory as they are now. 
-All you have to do is run the file with your dataset or the default dataset (merge.8.Q).
+All you have to do is run the file with your dataset or the default dataset (merge.8.Q). Here are the instructions for saving and running Jupyter notebooks from GitHub:
+  1. First select Raw (top right of the Jupyter file)
+  2. Then, press ctrl+s to save it as .ipynb (Note that you'll have to manually type '.ipynb' after the file name to make this work, as files from GitHub are saved as text files as default.)
+  3. Open jupyter notebook
+  4. Go to the location where you saved .ipynb file
+  5. Open the file, and you will see the code.
+  6. Press the run icon or Ctrl+F5
