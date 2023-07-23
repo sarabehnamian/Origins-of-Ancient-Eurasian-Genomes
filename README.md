@@ -15,4 +15,11 @@ STEP3 - Predicting 'merge.8.Q' data file
 ```
 ![This is an image](running.png)
 
-![You can watch this video if you need more explanations.](explanation.mov)
+![You can watch this video if you need more explanations.](explanation.mov) 
+
+## Contact
+For any queries or discussions related to this project, feel free to reach out to sara.behnamian@biol.lu.se
+
+## Citation
+If you find our work helpful or use our code or data in your research, please consider citing our original paper:
+[Behnamian, S., Esposito, U., Holland, G., Alshehab, G., Dobre, A.M., Pirooznia, M., Brimacombe, C.S., & Elhaik, E. (2022). Temporal Population Structure: A Genetic Dating Method for Ancient Eurasian Genomes from the Past 10,000 Years. [DOI: 10.1016/j.crmeth.2022.100270]](https://www.sciencedirect.com/science/article/pii/S2667237522001473?via%3Dihub)
