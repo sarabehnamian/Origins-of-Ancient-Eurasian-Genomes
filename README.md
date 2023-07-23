@@ -15,7 +15,7 @@ STEP3 - Predicting 'merge.8.Q' data file
 ```
 ![This is an image](running.png)
 
-![You can watch this video if you need more explanations.](explanation.mov) 
+![You can watch this video (explanation.mov) if you need more explanations.](explanation.mov) 
 
 ## Contact
 For any queries or discussions related to this project, feel free to reach out to sara.behnamian@biol.lu.se
